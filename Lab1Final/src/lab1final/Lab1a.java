@@ -20,6 +20,7 @@ import java.io.IOException;
 
 //This lab is also associated with Lab 4
 //This is because it has been uploaded to GitHub
+//This is a test to make sure it worked
 public class Lab1a {
     
     /**stores the data retrived from the file */
